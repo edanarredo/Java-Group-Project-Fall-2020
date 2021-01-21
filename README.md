@@ -1,5 +1,15 @@
 # ADS
-Team ADS
+IMPORTANT: This repository is an archived collection of projects done throughout the semester of Fall 2020. 
+
+The first project, `project1`, contains code for an Amazon review data analysis program - where datasets containing product reviews and metadata (obtained from https://jmcauley.ucsd.edu/data/amazon/) are processed in order to determine credibility of certain amazon reviews.
+
+The second project, `project2`, contains unit tests implemented to test some of the functions of the Amazon review program. These tests were ran on an optimal version of project1 provided by the teacher.
+
+The third project, `project3`, implements a GUI for `project1` using Java Swing and JavaFX.
+
+NOTE: The class was listed as an introductory Java class, so this was a very challenging project to pursue for a lot of us - the main objective of the projects was to help us understand the process of interpreting and understanding a larger and imperfect codebase and attempt to make it work in a group.
+
+THE TEXT BELOW IS A TUTORIAL I WROTE FOR MY GROUP TO ACCOMPANY MY EFFORTS TO TEACH THEM HOW TO USE GIT FOR OUR PROJECTS WITHOUT GOING TOO FAR.
 
 #  General 
 
