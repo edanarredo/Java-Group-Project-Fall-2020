@@ -1,0 +1,33 @@
+--------------------------------------------------
+Highest 2 number of reviews per reviewer
+--------------------------------------------------
+Id,degree,product avg,product st.dev,reviewer avg,reviewer st.dev
+A00019103H5DUGXXX2UPR,1,4.0,1.0,3.0,0.0
+A109ATZ5GBCII1,1,4.0,1.0,5.0,0.0
+--------------------------------------------------
+Highest 2 rating discrepancies per reviewer (wrt other reviewers)
+--------------------------------------------------
+Id,degree,product avg,product st.dev,reviewer avg,reviewer st.dev
+A00019103H5DUGXXX2UPR,1,4.0,1.0,3.0,0.0
+A109ATZ5GBCII1,1,4.0,1.0,5.0,0.0
+--------------------------------------------------
+Highest 2 rating variation per reviewer (wrt other reviewers)
+--------------------------------------------------
+Id,degree,product avg,product st.dev,reviewer avg,reviewer st.dev
+A00019103H5DUGXXX2UPR,1,4.0,1.0,3.0,0.0
+A109ATZ5GBCII1,1,4.0,1.0,5.0,0.0
+--------------------------------------------------
+Highest 1 number of reviews per product
+--------------------------------------------------
+Id,degree,product avg,product st.dev,reviewer avg,reviewer st.dev
+B007427XS4,2,4.0,1.0,4.0,1.0
+--------------------------------------------------
+Highest 1 rating discrepancies per product (wrt other products)
+--------------------------------------------------
+Id,degree,product avg,product st.dev,reviewer avg,reviewer st.dev
+B007427XS4,2,4.0,1.0,4.0,1.0
+--------------------------------------------------
+Highest 1 rating variation per reviewer (wrt other reviewers)
+--------------------------------------------------
+Id,degree,product avg,product st.dev,reviewer avg,reviewer st.dev
+B007427XS4,2,4.0,1.0,4.0,1.0

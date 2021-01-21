@@ -1,0 +1,5 @@
+dataID,RAW_FILE,RATINGS_NO,STAT_FILE
+Amazon_video,monkey,0,ratingSummary_Amazon_video.csv
+test,test.csv,5,ratingSummary_test.csv
+small_test,small_test.csv,2,ratingSummary_small_test.csv
+banana,weedFarm.exe,0,ratingSummary_banana.csv
