@@ -9,7 +9,7 @@ The third project, `project3`, implements a GUI for `project1` using Java Swing 
 
 NOTE: The class was listed as an introductory Java class, so this was a very challenging project to pursue for a lot of us - the main objective of the projects was to help us understand the process of interpreting and understanding a larger and imperfect codebase and attempt to make it work in a group.
 
-THE TEXT BELOW IS A TUTORIAL I WROTE FOR MY GROUP TO ACCOMPANY MY EFFORTS TO TEACH THEM HOW TO USE GIT FOR OUR PROJECTS WITHOUT GOING TOO FAR.
+THE TEXT BELOW IS A TUTORIAL I WROTE FOR MY GROUP TO ACCOMPANY MY EFFORTS TO TEACH THEM HOW TO USE GIT FOR OUR PROJECTS WITHOUT GOING TOO FAR INTO COMPLICATED TOPICS.
 
 #  General 
 
