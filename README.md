@@ -1,5 +1,5 @@
 # ADS
-IMPORTANT: This repository is an archived collection of projects done throughout the semester of Fall 2020. 
+IMPORTANT: This repository is an archived collection of projects done within an Object Oriented Programming class in Fall 2020. 
 
 The first project, `project1`, contains code for an Amazon review data analysis program - where datasets containing product reviews and metadata (obtained from https://jmcauley.ucsd.edu/data/amazon/) are processed in order to determine credibility of certain amazon reviews.
 
